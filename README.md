@@ -87,14 +87,6 @@ We welcome contributions to improve MELA. To contribute, please follow these ste
     ```
 5. Open a pull request.
 
-## License
 
-MELA is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
-## Contact
-
-For questions or support, please contact us at [support@mela.com](mailto:support@mela.com).
-
----
 
 Thank you for using MELA! Together, we can break down language barriers and save lives.
